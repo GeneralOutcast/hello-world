@@ -1,4 +1,7 @@
 # hello-world
 =============
 
-hey, my name is Sophie.
+my name is Sophie.
+
+one time I accidentally dyed my hair blonde. 
+...it's still blonde...
